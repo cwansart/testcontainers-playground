@@ -1,0 +1,10 @@
+# Maven
+target
+
+# Docker
+.dockerignore
+Dockerfile
+
+# IntelliJ
+*.iml
+.idea

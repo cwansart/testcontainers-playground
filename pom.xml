@@ -23,7 +23,7 @@
 
         <version.jakartaee-api>8.0.0</version.jakartaee-api>
         <version.slf4j>1.7.30</version.slf4j>
-        <version.junit>4.13</version.junit>
+        <version.junit>4.13.1</version.junit>
         <version.testcontainers>1.13.0</version.testcontainers>
         <version.rest-assured>4.3.0</version.rest-assured>
     </properties>

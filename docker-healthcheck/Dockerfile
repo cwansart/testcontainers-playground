@@ -1,6 +1,6 @@
 FROM maven AS build
 
-COPY . src
+COPY . .
 
 RUN mvn package
 
